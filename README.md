@@ -1,5 +1,7 @@
 # medical_chatbot_genai
 # End-to-end-Medical-Chatbot-using-Llama2
+## Overview
+Medical Chatbot is an innovative project leveraging advanced NLP models and vector database technologies to provide insightful medical information. Utilizing the Llama-2 model and Pinecone as a vector DB, this chatbot aims to transform the way medical knowledge is accessed and delivered.
 
 # How to run?
 ### STEPS:
